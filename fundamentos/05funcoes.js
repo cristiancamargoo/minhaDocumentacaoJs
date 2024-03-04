@@ -84,6 +84,7 @@ console.log(meuTime("inter")); // caiu no else
 addEventListener("click", function () {
   console.log("Clicou");
 });
+
 // A função possui dois argumentos
 // Primeiro é a string 'click'
 // Segundo é uma função anônima
